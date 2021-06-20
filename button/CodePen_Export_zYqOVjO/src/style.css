@@ -1,0 +1,14 @@
+div{
+  width:140pt;
+  padding:5pt;
+  margin:10pt;
+  border:1px solid lightgray;
+  font-size:16pt;
+}
+#div1{
+  background-color:lightsteelblue;
+  }
+#div2{
+  background-color:orange;
+}
+
